@@ -1,0 +1,94 @@
+img {
+    width: 160px;
+    height: 160px;
+    margin: 0 auto;
+}
+
+#escolha {
+    width: 100%;
+    text-align: center;
+}
+
+#enc {
+    background-color: #5873C1;
+    max-width: 550px;
+    margin: auto;
+    border: 5px solid #092168;
+    border-radius: 30px;
+}
+
+body {
+    background-color: rgb(219, 218, 255);
+    margin: 0px;
+    width: 100%;
+}
+
+footer {
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    height: 60px;
+    background-color: #5873C1;
+    border-radius: 40px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.regras {
+    text-align: center;
+    width: 400px;
+    background-color: #3756B1;
+    color: black;
+    border: 0px;
+    width: 95%;
+    height: 140px;
+    margin: auto;
+    margin-top: 5px;
+    max-width: 500px;
+}
+
+h3 {
+    margin: 0 auto;
+    width: 100%;
+}
+
+header {
+    text-align: center;
+    width: 400px;
+    background-color: #092168;
+    color: #5873C1;
+    border: 1px solid #092168;
+    width: 95%;
+    height: 80px;
+    margin: auto;
+    margin-top: 5px;
+    max-width: 500px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+main {
+    margin: auto;
+    text-align: center;
+}
+
+.color-primary-0 {
+    color: #133AAC
+}
+
+.color-primary-1 {
+    color: #5873C1
+}
+
+.color-primary-2 {
+    color: #3756B1
+}
+
+.color-primary-3 {
+    color: #0E2C85
+}
+
+.color-primary-4 {
+    color: #092168
+}
